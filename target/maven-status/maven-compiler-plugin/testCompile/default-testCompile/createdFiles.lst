@@ -1,0 +1,4 @@
+com\ef\control\TicketControllerTest.class
+com\ef\service\TicketServiceTest.class
+com\ef\MonetaApplicationTests.class
+com\ef\repository\TicketRepositoryTest.class

@@ -1,0 +1,5 @@
+com\ef\MonetaApplication.class
+com\ef\repository\TicketRepository.class
+com\ef\service\TicketService.class
+com\ef\control\TicketController.class
+com\ef\entity\Ticket.class
